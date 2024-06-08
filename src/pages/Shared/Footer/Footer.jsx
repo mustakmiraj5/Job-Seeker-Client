@@ -18,7 +18,7 @@ const Footer = () => {
           <div className="mt-4 sm:mt-0">
             <div className="mb-4 text-center sm:text-right">
               <p>Email: jobgatorltd@gmail.com</p>
-              <p>Phone: +8801404055220</p>
+              <p>Phone: +88014.....220</p>
               <p>Providing reliable tech since 1992</p>
             </div>
             <ul className="mt-8 flex justify-center gap-6 sm:mt-0 sm:justify-end">
@@ -245,7 +245,7 @@ const Footer = () => {
           </div>
         </div>
         <p className="text-xs text-gray-500 text-center">
-          &copy; 2022. My Job Gator. All rights reserved.
+          &copy; 2024. My Job Gator. All rights reserved.
         </p>
       </div>
     </footer>
