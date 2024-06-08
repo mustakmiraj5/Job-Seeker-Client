@@ -1,12 +1,12 @@
-# React + Vite Project
+# React Project
 
 # My Job Gator
 
 ## [ Live Link](https://job-seeker-2064e.web.app/)
 
-Private Client Repo Link: [https://github.com/Porgramming-Hero-web-course/b8a11-client-side-abdulmobin417](https://github.com/Porgramming-Hero-web-course/b8a11-client-side-abdulmobin417)
+Private Client Repo Link: [https://github.com/mustakmiraj5/Job-Seeker-Client](https://github.com/mustakmiraj5/Job-Seeker-Client)
 
-Private Server Repo Link: [https://github.com/Porgramming-Hero-web-course/b8a11-server-side-abdulmobin417](https://github.com/Porgramming-Hero-web-course/b8a11-server-side-abdulmobin417)
+Private Server Repo Link: [https://github.com/mustakmiraj5/Job-Seeker-Server](https://github.com/mustakmiraj5/Job-Seeker-Server)
 
 ### Project main key features are given below:
 
