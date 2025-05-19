@@ -5,15 +5,14 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_APIKEY,
-  authDomain: import.meta.env.VITE_AUTHDOMAIN,
-  projectId: import.meta.env.VITE_PROJECTID,
-  storageBucket: import.meta.env.VITE_STORAGEBUCKET,
-  messagingSenderId: import.meta.env.VITE_MESSAGINGSENDERID,
-  appId: import.meta.env.VITE_APPID,
+  apiKey: "AIzaSyADJ8irGD6sBKrKIw-Gpa8KjEQoU_cbdj8",
+  authDomain: "job-seeker-57be6.firebaseapp.com",
+  projectId: "job-seeker-57be6",
+  storageBucket: "job-seeker-57be6.firebasestorage.app",
+  messagingSenderId: "923656783049",
+  appId: "1:923656783049:web:7a9fee6f62fe825552f918"
 };
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
-
 export default app;
